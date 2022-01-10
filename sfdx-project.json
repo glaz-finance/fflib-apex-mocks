@@ -19,6 +19,7 @@
     "packageAliases": {
         "fflib-apex-mocks": "0Ho1v000000XZEsCAO",
         "fflib-apex-mocks@0.1.0-1": "04t1v000002KS3XAAW",
-        "fflib-apex-mocks@1.0.0-1": "04t1v000002KS3cAAG"
+        "fflib-apex-mocks@1.0.0-1": "04t1v000002KS3cAAG",
+        "fflib-apex-mocks@1.0.0-2": "04t1v000002KSb0AAG"
     }
 }
